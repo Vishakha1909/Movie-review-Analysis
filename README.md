@@ -7,7 +7,7 @@ Sentiment Analysis through IMDb review dataset
 - [sklearn](#animals--nature)
 - [nltk](#food--drink)
 - [pickle](#travel--places)
-- [re](#activities)
+- [regex](#activities)
 
 :smile: 
 
